@@ -1,0 +1,7 @@
+{
+  "name": "student_reactive_form_demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
